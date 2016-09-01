@@ -1,0 +1,2 @@
+# Parking-Lot-implementation-with-mutual-exclusion
+Using the java.util.concurrent and implementations of the Lock interface provided in examples of the text book implemented a system that would simulate a parking lot or a garage. I tried to make it configurable, so I can do this for different physical park facilities. The variables of the system should be: number of park spaces number of entries to the garage number of exits car arrival time car park time Our aim is to help the owners define a price policy for parking to maximise the income.
